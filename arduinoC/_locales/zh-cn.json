@@ -1,0 +1,7 @@
+{
+    "parrotshield.set|block": "扩展板 设置[MOTORID][DIR]速度[SPEED]%",
+    "parrotshield.stop|block": "扩展板 全部停止",
+    "parrotshield.DIR.Forward|menu": "正转",
+    "parrotshield.DIR.Backward|menu": "反转"
+
+}

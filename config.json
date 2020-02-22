@@ -1,0 +1,35 @@
+{
+  "name": {
+    "zh-cn": "掌控宝",
+    "en": "mpython shield"
+  },
+  "description": {
+    "zh-cn": "掌控扩展板",
+    "en": "mpython shield"
+  },
+  "author": "liliang",
+  "email": "969316753@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "parrotshield",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.1.0",
+      "board": [
+        "esp32"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/esp32.json",
+        "main.ts",
+        "libraries/libraries.zip"
+      ]
+    }
+  }
+}
