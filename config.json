@@ -27,8 +27,7 @@
         "_images/icon.svg",
         "_locales/zh-cn.json",
         "_menus/esp32.json",
-        "main.ts",
-        "libraries/libraries.zip"
+        "main.ts"
       ]
     }
   }
