@@ -1,0 +1,6 @@
+{
+	"DIR": {
+		"menu":	[["Forward", "1"], ["Backward", "2"]],
+		"default_set": "Forward"
+	}
+}

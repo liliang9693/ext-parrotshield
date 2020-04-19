@@ -32,13 +32,14 @@ MIT
 
 MCU                | JavaScript    | Arduino   | MicroPython    | Remarks
 ------------------ | :----------: | :----------: | :---------: | -----
-micro:bit        |             |       x       |             | 
-mpython        |             |        √      |             | 
-arduino uno    |             |        x      |             | 
+micro:bit        |             |              |             | 
+mpython        |             |        √      |      √       | 
+arduino uno    |             |              |             | 
  
 
 ## 更新日志
 - V0.1.0  20200223 第一版发布
+- V0.2.0  20200419 根据Mind+1.6.3开放的microPython用户库增加支持
 
 
 

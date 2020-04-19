@@ -12,22 +12,36 @@
   "license": "MIT",
   "isBoard": false,
   "id": "parrotshield",
+  "version": "0.2.0",
   "platform": [
     "win"
   ],
   "asset": {
     "arduinoC": {
       "dir": "arduinoC/",
-      "version": "0.1.0",
       "board": [
         "esp32"
       ],
       "main": "main.ts",
       "files": [
+        "_images/featured.png",
+        "_images/icon.svg",
+        "_locales/zh-cn.json",
+        "_menus/esp32.json"
+      ]
+    },
+    "micropython": {
+      "dir": "micropython/",
+      "board": [
+        "esp32"
+      ],
+      "main": "main.ts",
+      "files": [
+        "_images/featured.png",
         "_images/icon.svg",
         "_locales/zh-cn.json",
         "_menus/esp32.json",
-        "main.ts"
+        "libraries/libraries.zip"
       ]
     }
   }
